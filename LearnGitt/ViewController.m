@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSString *str =@"你好吗";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
